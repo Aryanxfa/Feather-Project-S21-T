@@ -1,5 +1,5 @@
 # Feather-Project
-The Basic Installer for Feather Project beta S22 port
+The Basic Installer for Feather Project beta S21 port
 
 
 ## About:
